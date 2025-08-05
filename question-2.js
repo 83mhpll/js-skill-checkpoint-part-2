@@ -6,4 +6,10 @@ const students = [
   { name: "Eve", score: 91 },
 ];
 
-// เริ่มเขียนโค้ดตรงนี้
+const totalScore = students
+  .filter(student => student.score > 50)
+  .map(student => student.score * 1.1)
+  .reduce((sum, score) => sum + score, 0);
+
+console.log(`Total score is ${totalScore}`);
+
