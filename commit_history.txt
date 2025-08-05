@@ -1,4 +1,4 @@
-e00a87b - 83mhpll - feat: implement functionality for questions 1-4
+c89f120 - 83mhpll - feat: add commit history tracking
 42a6b6d - Vachirawit Linkanokrat - feat: add question 4
 e203bae - CodePawsDev - Update question-1.js
 a40f5cf - napatwongchr - init js skill checkpoint 2
